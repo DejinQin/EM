@@ -19,7 +19,6 @@
     // Override point for customization after application launch.
     
     
-    NSLog(@"启动成功");
     
     
     return YES;
